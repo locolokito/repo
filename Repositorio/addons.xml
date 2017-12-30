@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.PeliculasDeVictor"
        name="[COLOR gold]Peliculas Para Disfrutar[/COLOR][COLOR blue] 5[/COLOR].[COLOR yellow]4[/COLOR].[COLOR red]0[/COLOR]"
-       version="0.0.1"
+       version="0.0.2"
        provider-name="Victor">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
